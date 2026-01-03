@@ -15,4 +15,4 @@ Built With
 - JavaScript (Vanilla)
 
 Live Demo
-https://yourusername.github.io/event-manager
+https://davibams.github.io/event-manager
